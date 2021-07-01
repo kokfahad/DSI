@@ -1,0 +1,21 @@
+Hi, I am Fahad Khan.
+
+I have tried my best to fullfil all the requirements asked in the assignment.
+
+tools used:
+Front End: HTML,CSS, Bootstrap.
+Back End: Python, Django.
+Database: Sqlite.
+
+It's a fully functional website (except add to cart button).
+It includes:
+1)Items can be added from database.
+2)Searching works fine. You can search any particular elements.
+3)Viewing the item. Clicking in view will take to the deatil of product.
+4)Paginations- can go from current page to next or previous(if exist).
+
+
+I have added ten items. Each page contain 8 items.
+
+
+to run the site: go to the terminal and write: python manage.py runserver
