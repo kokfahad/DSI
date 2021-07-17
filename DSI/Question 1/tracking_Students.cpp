@@ -176,23 +176,7 @@ int main()
     cls_nine clsNineObject[100];
     cls_ten clsTenObject[100];
 
-    //Demo 10 inputs: Assigning random values
-    /*bool arr[3]={1,1,1};
-    bool arr1[3]={1,1,0};
-    bool arr2[3]={1,0,1};
-    bool arr3[3]={0,0,1};
-    clsEightObject[0].add_student(1, "Fahad", 8, 4,50, 5, 3,arr);
-    clsEightObject[1].add_student(2, "Fahim", 8, 4,60, 5, 3,arr);
-    clsEightObject[2].add_student(3, "Farhan", 8, 5,70, 7, 2,arr2);
-    clsEightObject[3].add_student(4, "Farhad", 8, 5,80, 4, 1,arr3);
-    clsNineObject[0].add_student(5, "Rony", 9, 5,90, 5, 2,arr1);
-    clsNineObject[1].add_student(6, "Rahat", 9, 5,60, 4, 1,arr3);
-    clsNineObject[2].add_student(7, "Rashed", 9, 5,80, 4, 2,arr2);
-    clsTenObject[0].add_student(8, "Sakib", 10, 5,80, 4, 2,arr2);
-    clsTenObject[1].add_student(9, "Shohan", 10, 5,100, 4, 1,arr3);
-    clsTenObject[2].add_student(10, "Shahed", 10, 5,87, 4, 3,arr);
-    //for edit just press 2 and give id and other info
-    */
+
 
     cout << "...............Student Tracking..................." << endl;
     cout << "Enter option:" << endl;
